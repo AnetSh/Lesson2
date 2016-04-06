@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="75">
+        <date>19.12.2013</date>
+        <departure>15:05</departure>
+        <from>Kr. Rig</from>
+        <to>Kiev</to>
+    </train>
+    <train id="45">
+        <date>12.02.2016</date>
+        <departure>12:45</departure>
+        <from>K</from>
+        <to>Kr.R</to>
+    </train>
+    <train id="15">
+        <date>06.04.2016</date>
+        <departure>16:45</departure>
+        <from>Kiev</from>
+        <to>Kr.R</to>
+    </train>
+    <train id="95">
+        <date>19.12.2013</date>
+        <departure>15:05</departure>
+        <from>Kr. Rig</from>
+        <to>Kiev</to>
+    </train>
+    <train id="4">
+        <date>06.04.2016</date>
+        <departure>15:36</departure>
+        <from>Dnepr</from>
+        <to>Symmu</to>
+    </train>
+</trains>
